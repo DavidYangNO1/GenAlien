@@ -2,7 +2,7 @@
 //  NSArray+Addition.m
 //  games
 //
-//  Created by 官城云 on 15/7/8.
+//  Created by DavidYang on 15/7/8.
 //
 //
 
